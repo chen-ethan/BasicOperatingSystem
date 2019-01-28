@@ -1,5 +1,5 @@
 # BasicOperatingSystem
-A simple operating system that allows multiple users to save and print files.
+A simple operating system that allows multiple users to save and print files using multiple threads in Java.
 
 See Report for more detailed information
 
